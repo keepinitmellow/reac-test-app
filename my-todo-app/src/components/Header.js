@@ -13,7 +13,7 @@ export const Header = () => {
 
     return(
         <div style={headerStyle}>
-            <h1>Todo Items</h1>
+            <h1>Todo API call and displaying data </h1>
         </div>
     )
 }
